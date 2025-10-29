@@ -8,20 +8,20 @@ O jogo, além de divertido, é uma excelente ferramenta de aprendizado prático 
 
 ---
 
-## 🎮 Sobre o Projeto
+## Sobre o Projeto
 
 Neste mundo, o “fazendeiro” é substituído por scripts em Python, e o desafio é ensinar seus robôs a cuidar da fazenda de forma eficiente, plantar, colher, mover-se pelo mapa, gerenciar recursos e lidar com imprevistos.
 
 Os arquivos contidos aqui são minhas próprias implementações, desenvolvidas a partir da minha experiência no jogo.  
 Cada script representa uma parte do sistema:
-- **farm.py** → lógica de plantio e colheita  
-- **crossWorld.py** → movimentação e controle de entidades  
-- **try.py / tryPlant.py** → funções de tentativa e repetição segura  
-- **main.py** → coordenação geral entre os módulos  
+- [**farm.py**](scripts/farm.py) → lógica de plantio e colheita  
+- [**crossWorld.py**](scripts/crossWorld.py) → movimentação e controle de entidades  
+- [**try.py / tryPlant.py**](scripts/try.py) → funções de tentativa e repetição segura  
+- [**main.py**](scripts/Main.py) → coordenação geral entre os módulos, o "terminal principal", onde chamo cada função para executar as açoes
 
 ---
 
-## 🧠 Habilidades Aprendidas
+## Habilidades Aprendidas
 
 Durante o desenvolvimento desses códigos, evoluí em várias áreas fundamentais:
 
@@ -38,8 +38,8 @@ Durante o desenvolvimento desses códigos, evoluí em várias áreas fundamentai
 Criei este repositório como uma forma de registrar minha jornada de aprendizado e mostrar um pouco de como penso código:  
 **com lógica, curiosidade e propósito.**
 
-Não considero o código perfeito — ele é um reflexo da minha evolução.  
-Mas cada linha foi escrita com atenção, testada e reorganizada até ficar clara o suficiente pra que eu mesmo pudesse entender dias depois. 😄
+Não considero o código perfeito, ele é um reflexo da minha evolução.  
+Mas cada linha foi escrita com atenção, testada e reorganizada até ficar clara o suficiente pra que eu mesmo pudesse entender dias depois.
 
 ---
 
@@ -51,7 +51,7 @@ Mas cada linha foi escrita com atenção, testada e reorganizada até ficar clar
 
 ---
 
-> 💡 *“Um código bonito não é o que roda mais rápido, é o que você entende quando lê de novo.”*
+> 💡 *“Um código bom não é o que roda mais rápido, é o que você entende quando lê de novo.”*
 
 ---
 
