@@ -25,15 +25,15 @@ Cada script representa uma parte do sistema:
 
 Durante o desenvolvimento desses códigos, evoluí em várias áreas fundamentais:
 
-- ✳️ **Pensamento modular** — dividir o problema em partes independentes e reutilizáveis.  
-- 🧩 **Organização lógica** — manter cada função com uma responsabilidade clara e bem definida.  
-- ⚙️ **Automação e controle de fluxo** — criar sistemas que “pensam sozinhos” dentro do ambiente do jogo.  
-- 🔁 **Depuração e otimização** — entender como o comportamento de um robô muda conforme o código evolui.  
-- 🧠 **Raciocínio estratégico** — planejar sequências de ações e dependências, simulando tomadas de decisão reais.  
+- **Pensamento modular** — dividir o problema em partes independentes e reutilizáveis.  
+- **Organização lógica** — manter cada função com uma responsabilidade clara e bem definida.  
+- **Automação e controle de fluxo** — criar sistemas que “pensam sozinhos” dentro do ambiente do jogo.  
+- **Depuração e otimização** — entender como o comportamento de um robô muda conforme o código evolui.  
+- **Raciocínio estratégico** — planejar sequências de ações e dependências, simulando tomadas de decisão reais.  
 
 ---
 
-## 💬 Sobre Mim
+## Sobre Mim
 
 Criei este repositório como uma forma de registrar minha jornada de aprendizado e mostrar um pouco de como penso código:  
 **com lógica, curiosidade e propósito.**
@@ -43,7 +43,7 @@ Mas cada linha foi escrita com atenção, testada e reorganizada até ficar clar
 
 ---
 
-## 🚀 Próximos Passos
+## Próximos Passos
 
 - Refatorar algumas partes para torná-las ainda mais dinâmicas.  
 - Adicionar comentários explicativos linha a linha.  
