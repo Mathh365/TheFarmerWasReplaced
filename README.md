@@ -1,2 +1,3 @@
-# TheFarmerWasReplaced
-Este é um jogo de programação com foco em automação e modularização de código. Você não é o fazendeiro, é o programador por trás do drone! 🚀  Plante, regue, colha e automatize tudo através de terminais e linhas de comando em Python, criando suas próprias funções ou utilizando comandos nativos como canHarvest(), get_World_Size(), get_Ground_Type() e get_Entity_Type() e muitos outros.  Teste seus conhecimentos de lógica, automação e design de código enquanto se diverte criando soluções inteligentes para um mundo totalmente controlado por código.
+Vale ressaltar que o jogo nao foi desenvolvido por mim, este repositorio tem como objetivo apresentar meus codigos feitos nele, para mostrar minha forma de pensar e trabalhar, e criar soluções atravez de programação.
+
+>Por hora o repositorio segue vazio, mas em breve colocarei todos os meus codigos, e alguns videos do jogo rodando com eles para demonstração
