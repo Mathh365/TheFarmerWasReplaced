@@ -14,10 +14,10 @@ Neste mundo, o “fazendeiro” é substituído por scripts em Python, e o desaf
 
 Os arquivos contidos aqui são minhas próprias implementações, desenvolvidas a partir da minha experiência no jogo.  
 Cada script representa uma parte do sistema:
-- [**farm.py**](scripts/farm.py) → lógica de plantio e colheita  
-- [**crossWorld.py**](scripts/crossWorld.py) → movimentação e controle de entidades  
-- [**try.py / tryPlant.py**](scripts/try.py) → funções de tentativa e repetição segura  
-- [**main.py**](scripts/Main.py) → coordenação geral entre os módulos, o "terminal principal", onde chamo cada função para executar as açoes
+- [`farm.py`](scripts/farm.py) → lógica de plantio e colheita  
+- [`crossWorld.py`](scripts/crossWorld.py) → movimentação e controle de entidades  
+- [`try.py / tryPlant.py`](scripts/try.py) → funções de tentativa e repetição segura  
+- [`main.py`](scripts/Main.py) → coordenação geral entre os módulos, o "terminal principal", onde chamo cada função para executar as açoes
 
 ---
 
